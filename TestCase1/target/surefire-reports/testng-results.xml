@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="iqvia.APITest.TC1APITest" duration-ms="6720" started-at="2019-12-19T19:57:55Z" finished-at="2019-12-19T19:58:02Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="6720" started-at="2019-12-19T19:57:55Z" finished-at="2019-12-19T19:58:02Z">
+      <class name="iqvia.APITest.TC1APITest">
+        <test-method status="PASS" signature="getCapitalList()[pri:0, instance:iqvia.APITest.TC1APITest@735b478]" name="getCapitalList" is-config="true" duration-ms="4459" started-at="2019-12-20T01:27:55Z" finished-at="2019-12-20T01:28:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getCapitalList -->
+        <test-method status="PASS" signature="checkCapital()[pri:0, instance:iqvia.APITest.TC1APITest@735b478]" name="checkCapital" duration-ms="1181" started-at="2019-12-20T01:28:00Z" finished-at="2019-12-20T01:28:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkCapital -->
+        <test-method status="PASS" signature="checkCapitalFalse()[pri:0, instance:iqvia.APITest.TC1APITest@735b478]" name="checkCapitalFalse" duration-ms="1064" started-at="2019-12-20T01:28:01Z" finished-at="2019-12-20T01:28:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkCapitalFalse -->
+      </class> <!-- iqvia.APITest.TC1APITest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- iqvia.APITest.TC1APITest -->
+</testng-results>
